@@ -1,3 +1,4 @@
 public class GatherMarks(){
 Integer x = 100;
+ string y = 'Rajesh';
 }
