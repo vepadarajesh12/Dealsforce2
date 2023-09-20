@@ -3,7 +3,8 @@
     <types>
         <members>*</members>
         <name>ApexClass</name>
-    </types> sfdc
+    </types> SFDC
+    
     <types>
         <members>*</members>
         <name>ApexComponent</name>
